@@ -1,3 +1,9 @@
+# Mission Statement
+
+I'm creating this simply to see if I can fix the enchanted item sorting issue that seems to crop up on vanilla servers. I haven't looked at the code at all, so I've no idea to what extent things need to be changed
+
+_______________________
+
 <img src="http://inventory-tweaks.readthedocs.org/en/latest/_images/invtweaks.png" />
 
 *InvTweaks now runs on ForgeGradle! The build process has changed, check [the wiki](https://github.com/Kobata/inventory-tweaks/wiki/Getting-started) :)*
